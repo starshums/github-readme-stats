@@ -1,4 +1,4 @@
-# ~Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to my github profile! :)
+# ~Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and welcome to my github profile! :)
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/starshums/starshums">
   <img
@@ -12,7 +12,7 @@
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=starshums&count_private=true&show_icons=true"
-    alt="Shums's GitHub Stats"
+    alt="My GitHub Stats"
     height="180px"
   />
 </a>
