@@ -1,4 +1,6 @@
-# ~Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and welcome to my github profile! :)
+
+![github_banner](https://i.imgur.com/OByOZJX.png)
+
 <a href="https://github.com/starshums/starshums">
   <img
     align="center"
