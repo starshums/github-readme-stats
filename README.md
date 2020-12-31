@@ -18,6 +18,7 @@
   />
 </a>
 
+<hr/>
 <a href="/">
   <img align="right" alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=starshums.starshums" />
 </a>
