@@ -1,5 +1,4 @@
-
-![github_banner](https://i.imgur.com/2D7kvQZ.png)
+![github_banner](https://i.imgur.com/msyITSZ.png)
 
 <a href="https://github.com/starshums/starshums">
   <img
