@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/j3nt7r3.png">
+  <img src="https://i.imgur.com/j3nt7r3.png"> <br/><br/>
   
   <a href="https://github.com/starshums/starshums">
     <img
